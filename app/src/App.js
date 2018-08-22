@@ -25,4 +25,3 @@ class App extends Component {
 const quotes = ["Oh hai, Mark", "Haha, what a story Mark!", "Oh hi, doggie", "You're tearing me apart Lisa!", "Cheep! Cheep! Cheep!"];
 
 export default App;
-

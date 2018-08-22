@@ -1,0 +1,45 @@
+body {
+  font-family: Lucida Console;
+  background-color: rgb(88, 88, 88);
+}
+
+div {
+  text-align: center;
+}
+
+img {
+  margin-top: 25px;
+  border-radius: 10px;
+  border: solid black 2px;
+}
+
+button {
+  background-color: rgb(62, 86, 192);
+  padding: 20px 40px;
+  font-size: 30px;
+  border: solid 1px black;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+li {
+  padding: 2px 20px;
+  margin: 0px 2px;
+  color: white;
+  display: inline-block;
+  align-items: center;
+}
+
+ul {
+  background-color: grey;
+  margin: 0px;
+  border: 0px;
+  padding: 10px;
+  list-style-type: none;
+  overflow: hidden;
+  text-align: right;
+}
+
+li:first-child {
+  float: left;
+}
